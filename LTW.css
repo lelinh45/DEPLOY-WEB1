@@ -1,0 +1,8 @@
+.other-image {
+    width: 100%;
+    height: auto;
+}
+
+.other-image:hover {
+    transform: scale(1.1); /* Phóng to ảnh lên 110% khi di chuột qua */
+}
